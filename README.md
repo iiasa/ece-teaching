@@ -6,7 +6,7 @@ Copyright (c) 2021 IIASA
 
 ## Overview
 
-This repository contains teaching and learning materials with different formats like courses, seminars, code-and-tell, workshops etc.)
+This repository contains teaching and learning materials with different formats like courses, seminars, code-and-tell, workshops etc.). You can find the documentary [here](https://iiasateaching.readthedocs.io/en/latest/)
 
 ## Recommendations
 
