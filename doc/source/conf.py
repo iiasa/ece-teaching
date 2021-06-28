@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = "python-stub"
+project = "teaching"
 copyright = "2021 IIASA"
-author = "Daniel Huppmann"
+author = "IIASA"
 
 
 # -- General configuration ---------------------------------------------------
