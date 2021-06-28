@@ -1,4 +1,4 @@
-An IIASA Python project
+Teaching and learning
 =======================
 
 This is a template project for an IIASA Python project
