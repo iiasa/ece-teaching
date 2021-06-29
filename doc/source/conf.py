@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = "teaching"
+project = "ece-teaching"
 copyright = "2021 IIASA"
 author = "IIASA"
 
