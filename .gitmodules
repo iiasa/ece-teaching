@@ -4,3 +4,6 @@
 [submodule "ece-teaching/code-and-tell"]
 	path = ece-teaching/code-and-tell
 	url = https://github.com/iiasa/code-and-tell.git
+[submodule "doc/source/code-and-tell"]
+	path = doc/source/code-and-tell
+	url = https://github.com/iiasa/code-and-tell.git
