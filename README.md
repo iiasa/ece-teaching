@@ -2,12 +2,12 @@
 
 Copyright (c) 2021 IIASA
 
-![License](https://img.shields.io/github/license/iiasa/teaching)
+![License](https://img.shields.io/github/license/iiasa/ece-teaching)
 
-## Overview
+## Despription
 
-This repository contains teaching and learning material with different formats like courses, seminars, code-and-tell, workshops etc.). You can find the documentation [here](https://iiasateaching.readthedocs.io/en/latest/).
+In the future, teaching and learning materials of the IIASA Energy, Climate, and Environment (ECE) program will be made available in this repository. The material and documentation can be found [here](https://teaching.ece.iiasa.ac.at/).
 
-## Content
+## How to share your material
 
-[Open Source Energy System Modeling](https://data.ece.iiasa.ac.at/teaching/) by Daniel Huppmann
+
