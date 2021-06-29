@@ -1,8 +1,6 @@
 Teaching and learning
 =======================
 
-In the future, teaching and learning materials in various formats will be made available here.
-
 Overview
 --------
 
