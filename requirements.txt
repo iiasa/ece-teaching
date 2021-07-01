@@ -1,0 +1,10 @@
+sphinx
+nbsphinx
+sphinx-gallery
+cloud_sptheme
+pillow
+sphinxcontrib-bibtex<2.0
+sphinxcontrib-programoutput
+numpydoc
+openpyxl
+kaleido
