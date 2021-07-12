@@ -1,57 +1,84 @@
-# A template repo for IIASA Python projects
+# Overview of the teaching & learning material by the ECE program
 
-Copyright (c) 2021 IIASA
+![License](https://img.shields.io/github/license/iiasa/ece-teaching)
 
-![License](https://img.shields.io/github/license/iiasa/python-stub)
-[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+Copyright (c) 2021 IIASA; published under the [MIT License](LICENSE)
 
-## Overview
+This is a [Sphinx](http://sphinx-doc.org/) project for the documentation of the
+teaching and learning activities by the Energy, Climate, and Environment Program (ECE).
+The website can be found [here](https://teaching.ece.iiasa.ac.at/).
 
-Template repository for creating python packages and Sphinx-based documentation pages in line with the IIASA design guidelines
+The MIT license applies only to this site and not to the teaching and learning
+content.
 
-## Configuration
+## Scope & Aim
 
-To start a new Python package from this repo, 
-click on the green **Use this template** button on top-right of this page.
-Detailed instructions to create a new repository from a template can be found
-[here](https://help.github.com/en/articles/creating-a-repository-from-a-template).
+This repository contains pages with relevant information about teaching events, 
+including links to relevant websites and the teaching material (e.g., pdf, pptx, 
+recorded videos). Any such material should not be committed to this repository, 
+but be stored in an appropriate location such as the IIASA publication 
+repository (pure.iiasa.ac.at) or a personal folder,
+e.g., https://data.ece.iiasa.ac.at/<user>
 
-Then, make the following changes:
+The material comprises workshops organized by ECE, university courses taught
+by ECE staff, tutorials, etc.
 
-0. Change the text of the [LICENSE](LICENSE) file (optional).
-   Visit [choosealicense.com](https://choosealicense.com) to find out which license is
-   right for your project.
-0. Update the copyright (if other than IIASA) in this readme.
-0. Update the url in the license badge in this readme to point to your new repository.
-   This will automatically change the license badge (if you changed the license).
-0. Rename the folder `python_stub` to the intended package name.
-0. Update the package name, author info and url in `setup.cfg`.
-0. Update the package name, author info and copyright in `doc/source/conf.py`.
-0. Delete the configuration section from this readme and update the title and overview section.
+## Instructions
 
-Make sure to commit all changes to your new repository - then program away!
+### How to install dependencies and build locally
+1. Install dependencies:
 
-## Recommendations
+      `pip install -r requirements.txt`
 
-This package uses the [Black](https://black.readthedocs.io/) code style.
-A GitHub Action workflow is configured to check that your commits conform to the style.
+2. Build from the command line. On Linux or macOS:
 
-We recommend that you follow the [numpydoc](https://numpydoc.readthedocs.io)
-docstring formatting guide.
+    `make html`
 
-Looking for more best-practice tools for scientific software development?
-Take a look at the [cookiecutter-hypermodern-python](https://github.com/cjolowicz/cookiecutter-hypermodern-python) repository!
+   On Windows:
 
-## Installation
+    `.\make html`
+ 
+ 3. Open the rendered html page to see if everything fits:
+ 
+    `_build/html/index.html`
 
-Install the package including the requirements for building the docs.
+### How to add new content
 
-    pip install --editable .[doc]
+1. Fork the repository. 
 
-## Building the docs
+2. Create a new branch.
 
-Run Sphinx to build the docs!
+3. Update 
 
-    make --directory=doc html
+	a) either the existing ReST file `index.rst` or, 
 
-The rendered html pages will be located in `doc/build/html/index.html`.
+	b) implement your ReST file on the top level and link it within the `index.rst`
+	(this creates a sub-page). 
+
+Implementing a subpage (b)) is only recommended if your materials covers series 
+of lectures, including video tutorial(s) and multiple other files. 
+
+4. Create a PR to the main branch of 
+[iiasa/ece-teaching](https://github.com/iiasa/ece-teaching/) with yourself 
+as an assignee and a reviewer.
+
+### How to write
+
+Use the following references for writing your ReST file:
+
+- [Quick reStructuredText](http://docutils.sourceforge.net/docs/user/rst/quickref.html) 
+reference from docutils.
+- [ReST cheat sheet](https://thomas-cokelaer.info/tutorials/sphinx/rest_syntax.html) 
+by Thomas Cokelaer.
+- [Sphinx](http://www.sphinx-doc.org/) documentation, including reference on 
+Sphinx-specific ReST syntax.
+
+See the following example on how to link e.g. your video from the IIASA
+publication repository (pure.iiasa.ac.at) or a folder on ldom002.
+
+```
+.. raw:: html
+
+	<video width="640" height="360" controls preload="none" controlsList="nodownload">
+		<source src="Your file path" type="video/mp4">
+ ```
