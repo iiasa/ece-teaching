@@ -29,5 +29,5 @@ jobs:
     - name: Install dependencies and package for building the docs
       run: pip install -r requirements.txt
     - name: Build the docs
-      run: make --directory=doc html
+      run: make html
 
