@@ -11,32 +11,36 @@ The aim of this page is to clearly describe all the activities and materials so 
 .. contents:: Table of Content
    :local:
 
-Workshops and tutorials
------------------------
+Workshops and tutorials organised by ECE
+----------------------------------------
+
 Our recorded workshops and tutorials are particularly suitable for dealing intensively with a topic in a defined time frame. The synergy of lecture and practice gives you the chance to apply what you have learned directly - and of course to rewind as often as you like and need.
 
 :doc:`message_ix_workshop`
 
-Code-and-Tell
--------------
-The Code-and-Tell format shows helpful tips and tricks that might be good to know in your daily programming life. Maybe you will discover something you have been looking for.
-The linked repository contains a collection of small code snippets presented during the weekly MESSAGEix meetings.
+University courses and lectures
+-------------------------------
 
-https://github.com/iiasa/code-and-tell by participants of MESSAGEix weekly meetings
-
-
-Systems Analysis and Modeling Classes
--------------------------------------
-In this section you find a collection of university lectures given by the ECE staff. Take a look - no need to enroll.
-
+In this section, you find a collection of university lectures given by the ECE staff.
+Take a look - no need to enroll!
 
 Open Source Energy System Modeling
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 https://data.ece.iiasa.ac.at/teaching/ by Daniel Huppmann
 
+Code-and-Tell sessions
+----------------------
+The Code-and-Tell format shows helpful tips and tricks that might be good to know in
+your daily programming life. Maybe you will discover something useful?
 
-Single Lectures
----------------
-In this section you will find a collection of individual university lectures on specific topics, such as those given as part of summer schools or individual lectures.
+The linked repository contains a collection of small code snippets
+presented during the weekly MESSAGEix meetings.
 
+https://github.com/iiasa/code-and-tell by participants of MESSAGEix weekly meetings
+
+Talks, conference presentations, summer school material
+-------------------------------------------------------
+In this section you will find a collection of talks, conference presentations
+or similar formats related to teaching and/or learning by ECE staff,
+such as those given as part of summer schools or individual lectures.
