@@ -9,15 +9,13 @@ The right materials and venue for learning depends on factors including your cur
 The aim of this page is to clearly describe all the activities and materials so you can make an appropriate choice for your needs.
 
 .. contents:: Table of Content
+   :local:
 
 Workshops and tutorials
 -----------------------
 Our recorded workshops and tutorials are particularly suitable for dealing intensively with a topic in a defined time frame. The synergy of lecture and practice gives you the chance to apply what you have learned directly - and of course to rewind as often as you like and need.
 
-.. toctree::
-   :maxdepth: 2
-
-   message_ix_workshop
+:doc:`message_ix_workshop`
 
 Code-and-Tell
 -------------
