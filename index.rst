@@ -15,7 +15,14 @@ Workshops and tutorials
 -----------------------
 Our recorded workshops and tutorials are particularly suitable for dealing intensively with a topic in a defined time frame. The synergy of lecture and practice gives you the chance to apply what you have learned directly - and of course to rewind as often as you like and need.
 
-:doc:`message_ix_workshop`
+MESSAGEix Workshop
+^^^^^^^^^^^^^^^^^^
+
+.. toctree::
+   :maxdepth: 2
+
+   message_ix_workshop
+
 
 Code-and-Tell
 -------------

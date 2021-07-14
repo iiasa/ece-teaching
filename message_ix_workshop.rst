@@ -1,5 +1,7 @@
-MESSAGEix Workshop
-^^^^^^^^^^^^^^^^^^
+.. raw:: html
+
+   <h1>MESSAGEix Workshop</h1>
+
 
 The aim of the workshop is to help new users of the MESSAGEix modelling framework to get started with their modeling work. The main features of the “framework” are introduced, and the use cases of some features are shown. The user can learn how to build an energy model and how to represent some policy constraints in their energy scenarios.
 For information about the model, its structure, mathematical formulation and much more, please see the documentation at: https://docs.messageix.org.
