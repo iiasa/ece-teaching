@@ -1,7 +1,7 @@
 Open Source Energy System Modeling @ TU Wien
 ============================================
 
-.. figure:: ../../../../_static/TU_Wien-Logo.svg
+.. figure:: ../../../../_static/tuwien_logo.png
    :width: 240px
    :align: right
 
