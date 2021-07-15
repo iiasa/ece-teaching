@@ -59,3 +59,20 @@ html_static_path = ["_static"]
 html_css_files = [
     "iiasa.css",
 ]
+
+
+# Prolog for all rst files
+rst_prolog = """
+.. |cc-by| raw:: html
+
+   <table>
+   <td>
+   <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
+   <img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" />
+   </a>
+   </td><td style="padding-left:20px">
+   All material on this page is published under <br />
+   a <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+   </td>
+   </table>
+"""
