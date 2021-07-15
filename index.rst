@@ -24,10 +24,11 @@ University courses and lectures
 In this section, you find a collection of university lectures given by the ECE staff.
 Take a look - no need to enroll!
 
-Open Source Energy System Modeling
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. toctree::
+   :maxdepth: 1
 
-https://data.ece.iiasa.ac.at/teaching/ by Daniel Huppmann
+   lectures/osesm-tuwien/index
+
 
 Code-and-Tell sessions
 ----------------------
