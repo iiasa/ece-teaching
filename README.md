@@ -52,13 +52,28 @@ by ECE staff, tutorials, etc.
 
 	a) either the existing ReST file `index.rst` or, 
 
-	b) implement your ReST file on the top level and link it within the `index.rst`
-	(this creates a sub-page). 
+	b) implement your ReST file on the top level. 
 
-Implementing a subpage (b)) is only recommended if your materials covers series 
-of lectures, including video tutorial(s) and multiple other files. 
+4. If you created a new ReST file, add the path of your ReST file 
+	in the hidden TOC and reference it with `:doc:...` 
+	under the respective section. See the following example 
+	for adding other Workshop and tutorial material.
+	
+	```
+	.. toctree::
+	   :hidden:
+	   :maxdepth: 1
+	   :caption: Workshops and tutorials
 
-4. Create a PR to the main branch of 
+	   message_ix_workshop
+	   your_file_path
+
+	- :doc:`message_ix_workshop`
+	- :doc:`your_file_path`
+	
+	```
+
+5. Create a PR to the main branch of 
 [iiasa/ece-teaching](https://github.com/iiasa/ece-teaching/) with yourself 
 as an assignee and a reviewer.
 
