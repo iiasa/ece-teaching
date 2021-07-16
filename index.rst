@@ -50,7 +50,7 @@ Take a look - no need to enroll!
 
    lectures/osesm-tuwien/index
 
-- :doc:`lectures/osesm-tuwien/index`
+- :doc:`lectures/osesm-tuwien/index` by Daniel Huppmann (2019-ongoing)
 
 Other useful resources
 ----------------------
