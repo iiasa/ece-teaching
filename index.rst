@@ -49,8 +49,10 @@ Take a look - no need to enroll!
    :maxdepth: 1
 
    lectures/osesm-tuwien/index
+   lectures/iam-ntnu/index
 
 - :doc:`lectures/osesm-tuwien/index` by Daniel Huppmann (2019-ongoing)
+- :doc:`lectures/iam-ntnu/index` by Volker Krey (2019/2020-ongoing)
 
 Other useful resources
 ----------------------
