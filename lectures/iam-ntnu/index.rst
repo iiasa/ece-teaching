@@ -14,11 +14,40 @@ Link to the lecture page at `NTNU`_.
 Scope
 ^^^^^
 
-Integrated Assessment Models (IAMs) are extensively used in the analysis of climate change mitigation and are informing national decision makers as well as contribute to international assessments such as those of the Intergovernmental Panel on Climate Change (IPCC). The objective of this course is to provide an overview of the field of integrated assessment modeling, including a characterization of different types of IAMs, their methodological basis and applications of IAMs. The field started emerging in the 1970's, based on research by 2018 Nobel laureate William D. Nordhaus and others, and has undergone a dynamic development to the present. The course introduces important concepts in the field of climate change research, including the Shared Socio-economic Pathways (SSPs) and the Representative Concentration Pathways (RCPs) that link integrated assessment modeling with climate and earth systems modeling as well as climate change impacts, adaptation and vulnerability research.
+Integrated Assessment Models (IAMs) are extensively used in the analysis of
+climate change mitigation and are informing national decision makers as well as
+contribute to international assessments such as those of the Intergovernmental
+Panel on Climate Change (IPCC). The objective of this course is to provide an
+overview of the field of integrated assessment modeling, including a
+characterization of different types of IAMs, their methodological basis and
+applications of IAMs. The field started emerging in the 1970's, based on
+research by 2018 Nobel laureate William D. Nordhaus and others, and has
+undergone a dynamic development to the present. The course introduces important
+concepts in the field of climate change research, including the Shared
+Socio-economic Pathways (SSPs) and the Representative Concentration Pathways
+(RCPs) that link integrated assessment modeling with climate and earth systems
+modeling as well as climate change impacts, adaptation and vulnerability
+research.
 
-Applying IAMs to analyze the potential role of individual technologies and different policies in mitigation of climate change is studied from a systemic perspective which is becoming increasingly important with the increasing connections between regions and parts of human and natural systems. A recent expansion of IAM research therefore deals with putting climate change mitigation and policy into the context of broader sustainable development objectives, including air quality, water management, energy security or resource efficiency. The linkage of IAMs with methods and tools from other disciplines such as atmospheric chemistry and health research related to air pollution or industrial ecology research (e.g., lifecycle assessment) is discussed.
+Applying IAMs to analyze the potential role of individual technologies and
+different policies in mitigation of climate change is studied from a systemic
+perspective which is becoming increasingly important with the increasing
+connections between regions and parts of human and natural systems. A recent
+expansion of IAM research therefore deals with putting climate change mitigation
+and policy into the context of broader sustainable development objectives,
+including air quality, water management, energy security or resource efficiency.
+The linkage of IAMs with methods and tools from other disciplines such as
+atmospheric chemistry and health research related to air pollution or industrial
+ecology research (e.g., lifecycle assessment) is discussed.
 
-The course also provides an introduction to state-of-the-art modeling techniques, including methods to ensure reproducibility of results, such as version control and usage of tools for collaborative model development and quality control. This will be achieved through exercises that require the operation and modification of an existing IAM framework to analyze different types of scenarios. Finally, studying current applications and methodological expansions of IAMs in a seminar part of the course will deepen the understanding of IAM applications at the research frontier.
+The course also provides an introduction to state-of-the-art modeling
+techniques, including methods to ensure reproducibility of results, such as
+version control and usage of tools for collaborative model development and
+quality control. This will be achieved through exercises that require the
+operation and modification of an existing IAM framework to analyze different
+types of scenarios. Finally, studying current applications and methodological
+expansions of IAMs in a seminar part of the course will deepen the understanding
+of IAM applications at the research frontier.
 
 Academic year 2019/2020 (EP8900)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -60,4 +89,8 @@ Acknowledgement
 ^^^^^^^^^^^^^^^
 
 This lecture is based on ongoing research and capacity building activities.
-It builds on material from a number people, in particular: Shinichiro Fujimori, Matthew Gidden, Arnulf Grübler, Daniel Huppmann, Paul Kishimoto, Gunnar Luderer, David McCollum, Haewon McJeon, Clara Orthofer, Shonali Pachauri, Simon Parkinson, Peter Rafaj, Keywan Riahi, Heleen van Soest, Charlie Wilson, Behnam Zakeri
+It builds on material from a number people, in particular: Shinichiro Fujimori,
+Matthew Gidden, Arnulf Grübler, Daniel Huppmann, Paul Kishimoto, Gunnar Luderer,
+David McCollum, Haewon McJeon, Clara Orthofer, Shonali Pachauri, Simon
+Parkinson, Peter Rafaj, Keywan Riahi, Heleen van Soest, Charlie Wilson, Behnam
+Zakeri
