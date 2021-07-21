@@ -64,10 +64,13 @@ materials in different formats.
    :maxdepth: 1
    :caption: Other useful resources
 
-   code-and-tell
+   A "code-and-tell" repo <https://github.com/iiasa/code-and-tell>
+   A Python-project template repo <https://github.com/iiasa/python-stub>
 
-- :doc:`code-and-tell`
-
+- A `code-and-tell repo <https://github.com/iiasa/code-and-tell>`_
+  with helpful tips and tricks for your daily programming life, |br|
+  based on presentations during the weekly MESSAGEix meetings
+- A `template repo <https://github.com/iiasa/python-stub>`_ for IIASA Python projects
 
 Talks, conference presentations, summer school material
 -------------------------------------------------------
