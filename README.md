@@ -13,10 +13,10 @@ content.
 
 ## Scope & Aim
 
-This repository contains pages with relevant information about teaching events, 
-including links to relevant websites and the teaching material (e.g., pdf, pptx, 
-recorded videos). Any such material should not be committed to this repository, 
-but be stored in an appropriate location such as the IIASA publication 
+This repository contains pages with relevant information about teaching events,
+including links to relevant websites and the teaching material (e.g., pdf, pptx,
+recorded videos). Any such material should not be committed to this repository,
+but be stored in an appropriate location such as the IIASA publication
 repository (pure.iiasa.ac.at) or a personal folder,
 e.g., https://data.ece.iiasa.ac.at/<user>
 
@@ -28,7 +28,7 @@ by ECE staff, tutorials, etc.
 ### How to install dependencies and build locally
 1. Install dependencies:
 
-      `pip install -r requirements.txt`
+      In the local copy of the `ece-teaching` repository, run `pip install -r requirements.txt`
 
 2. Build from the command line. On Linux or macOS:
 
@@ -37,28 +37,28 @@ by ECE staff, tutorials, etc.
    On Windows:
 
     `.\make html`
- 
+
  3. Open the rendered html page to see if everything fits:
- 
+
     `_build/html/index.html`
 
 ### How to add new content
 
-1. Fork the repository. 
+1. Fork the repository.
 
 2. Create a new branch.
 
-3. Update 
+3. Update
 
-	a) either the existing ReST file `index.rst` or, 
+	a) either the existing ReST file `index.rst` or,
 
-	b) implement your ReST file on the top level. 
+	b) implement your ReST file on the top level.
 
-4. If you created a new ReST file, add the path of your ReST file 
-	in the hidden TOC and reference it with `:doc:...` 
-	under the respective section. See the following example 
+4. If you created a new ReST file, add the path of your ReST file
+	in the hidden TOC and reference it with `:doc:...`
+	under the respective section. See the following example
 	for adding other Workshop and tutorial material.
-	
+
 	```
 	.. toctree::
 	   :hidden:
@@ -70,22 +70,22 @@ by ECE staff, tutorials, etc.
 
 	- :doc:`message_ix_workshop`
 	- :doc:`your_file_path`
-	
+
 	```
 
-5. Create a PR to the main branch of 
-[iiasa/ece-teaching](https://github.com/iiasa/ece-teaching/) with yourself 
+5. Create a PR to the main branch of
+[iiasa/ece-teaching](https://github.com/iiasa/ece-teaching/) with yourself
 as an assignee and a reviewer.
 
 ### How to write
 
 Use the following references for writing your ReST file:
 
-- [Quick reStructuredText](http://docutils.sourceforge.net/docs/user/rst/quickref.html) 
+- [Quick reStructuredText](http://docutils.sourceforge.net/docs/user/rst/quickref.html)
 reference from docutils.
-- [ReST cheat sheet](https://thomas-cokelaer.info/tutorials/sphinx/rest_syntax.html) 
+- [ReST cheat sheet](https://thomas-cokelaer.info/tutorials/sphinx/rest_syntax.html)
 by Thomas Cokelaer.
-- [Sphinx](http://www.sphinx-doc.org/) documentation, including reference on 
+- [Sphinx](http://www.sphinx-doc.org/) documentation, including reference on
 Sphinx-specific ReST syntax.
 
 See the following example on how to link e.g. your video from the IIASA
