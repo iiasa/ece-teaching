@@ -28,7 +28,7 @@ by ECE staff, tutorials, etc.
 ### How to install dependencies and build locally
 1. Install dependencies:
 
-      In the local copy of the `ece-teaching` repository run `pip install -r requirements.txt`
+      In the local copy of the `ece-teaching` repository, run `pip install -r requirements.txt`
 
 2. Build from the command line. On Linux or macOS:
 
