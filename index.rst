@@ -84,3 +84,12 @@ Talks, conference presentations, summer school material
 In this section you will find a collection of talks, conference presentations
 or similar formats related to teaching and/or learning by ECE staff,
 such as those given as part of summer schools or individual lectures.
+
+.. toctree::
+   :hidden:
+   :maxdepth: 1
+   :caption: Talks & presentations
+
+   tutorials/pyam
+
+- :doc:`tutorials/pyam`
