@@ -16,6 +16,13 @@ and time and resources you have available.
 The aim of this page is to clearly describe all the activities and
 materials so you can make an appropriate choice for your needs.
 
+| This website is generated from https://github.com/iiasa/ece-teaching using `Sphinx`_.
+| The source code of the website is released under the `MIT License`_.
+
+.. _Sphinx : http://www.sphinx-doc.org/
+
+.. _`MIT License` : https://github.com/iiasa/ece-teaching/blob/main/LICENSE
+
 .. contents:: Table of Content
    :local:
 
