@@ -5,50 +5,100 @@ The aim of the workshop is to help new users of the MESSAGEix
 modelling framework to get started with their modeling work.
 The main features of the “framework” are introduced, and the
 use cases of some features are shown. The user can learn how
-to build an energy model and how to represent some policy constraints
-in their energy scenarios.
+to build an energy model and how to represent some policy
+constraints in their energy scenarios.
 For information about the model, its structure, mathematical
-formulation and much more, please see the documentation
-at: https://docs.messageix.org.
-The different lectures contain the workshop slides, videos as
-well as tutorials for hands-on examples.
+formulation and much more, please see the `documentation <https://docs.messageix.org>`_.
 
-Introduction to MESSAGEix Modelling Framework
-"""""""""""""""""""""""""""""""""""""""""""""
-Introduction to the MESSAGEix modeling framework and its components.
+Under the following link you find the workshop slides as well
+as the recordings of the latest workshop:
 
+`MESSAGEix-Workshop material <http://pure.iiasa.ac.at/id/eprint/17318/>`_
 
-Getting started with the framework.
+Learning objectives
+"""""""""""""""""""
 
+The learning objectives of the workshop are the following:
 
-Building a simple MESSAGEix model
-"""""""""""""""""""""""""""""""""
-Introduction to linear optimization and to energy systems.
+* Understanding of energy systems.
+* Getting to know the main features of MESSAGEix.
+* Building an energy model and solving it.
+* Applying further policy constraints to the model.
+* Getting insights on version control, testing and documentation in software development
+* Understanding collaborative model development and continuous integration (GitHub).
 
+Needed requirements
+"""""""""""""""""""
 
-Building a simple model of a coffee machine from scratch
-using MESSAGEix (step-by-step hands on guide).
+The workshop is designed to be accessible for users with different
+backgrounds and levels of experience with the modeling. However, there
+are some pre-requisite knowledge and skills which you should
+go through before getting started, including:
 
+* Elementary computer programming (preferably in the Python or R language);
+* Fundamental concepts of mathematical modeling, optimization,
+  and data analysis; and
+* Energy systems (e.g., energy supply, energy conversion
+  technologies, and demand sectors and their linkages).
 
-Energy system modelling with MESSAGEix
-""""""""""""""""""""""""""""""""""""""
-Building a single region energy model using MESSAGEix
-(step-by-step guide, going through MESSAGEix online tutorial:
-Westeros Baseline).
+For a complete list, plus links to learning resources, see
+`“Pre-requisite knowledge & skills" repo <https://docs.messageix.org/en/stable/prereqs.html>`_
+in the documentation.
 
+Installation MESSAGEix
+""""""""""""""""""""""
 
-Modelling some energy and environmental policies (share of
-renewables and emission targets).
+Installing MESSAGEix before you're getting started with the workshop is highly
+recommended. Complete instructions are provided in the documentation on the
+`“Installation” <https://docs.messageix.org/en/stable/install.html>`_
+page of the documentation.
 
-Postprocessing and model software development
-"""""""""""""""""""""""""""""""""""""""""""""
-Introduction to MESSAGEix reporting and post-processing tools.
+To successfully work through this workshop, we emphasize a few points
+from the instructions:
 
+* If you are not already familiar with the other installation methods,
+  you should use Anaconda to install the framework.
 
-Version control, testing, documentation in software development.
+* Under the `“Tutorials” <https://docs.messageix.org/en/stable/tutorials.html>`_
+  page, you can download some simple models developed using MESSAGEix. To run these
+  sample models, you need to install the Jupyter notebook software from Anaconda
+  Navigator.
 
+You can check our GitHub pages, where common issues and solutions are discussed:
+https://github.com/iiasa/message_ix/discussions
 
-Brief intro to collaborative model development and continuous
-integration (Github).
+Agenda
+""""""
 
+**Section I: Introduction to MESSAGEix Modelling Framework**
 
+* Introduction to the MESSAGEix modeling framework and its components.
+* Troubleshooting of the installation.
+
+**Section II: Building a simple MESSAGEix model**
+
+* Brief intro to linear optimization.
+* Brief introduction to energy systems.
+* Building a simple model of a coffee machine from scratch using MESSAGEix
+  (step-by-step hands on guide).
+* Discussing some main parameters/equations of the mathematical model.
+
+**Section III: Energy system modelling with MESSAGEix**
+
+* Building a single region energy model using MESSAGEix (step-by-step guide,
+  going through MESSAGEix online tutorial: `Westeros Baseline <https://github.com/iiasa/message_ix/blob/v3.3.0/tutorial/westeros/westeros_baseline.ipynb>`_)
+* Modelling some energy and environmental policies (share of
+  renewables and emission targets).
+* Discussing dynamic constraints and related parameters/equations in MESSAGEix.
+
+**Section IV: Postprocessing and model software development**
+
+* Introduction to MESSAGEix reporting and post-processing tools.
+* Version control, testing, documentation in software development.
+* Brief intro to collaborative model development and continuous integration
+  (GitHub).
+
+**Section V: Modelling Forum**
+
+In this free-format session, different modeling topics asked by the latest
+workshop participants will be discussed.
