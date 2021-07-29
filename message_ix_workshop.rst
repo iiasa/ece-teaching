@@ -2,7 +2,7 @@ MESSAGEix Workshop
 ^^^^^^^^^^^^^^^^^^
 
 The aim of the workshop is to help new users of the MESSAGEix
-modelling framework to get started with their modeling work.
+modelling framework getting started with their modelling work.
 The main features of the “framework” are introduced, and the
 use cases of some features are shown. The user can learn how
 to build an energy model and how to represent some policy
@@ -10,33 +10,41 @@ constraints in their energy scenarios.
 For information about the model, its structure, mathematical
 formulation and much more, please see the `documentation <https://docs.messageix.org>`_.
 
-Under the following link you find the workshop slides as well
-as the recordings of the latest workshop:
+.. contents:: Table of Content
+   :local:
 
-`MESSAGEix-Workshop material <http://pure.iiasa.ac.at/id/eprint/17318/>`_
+Recent workshops
+""""""""""""""""
+
+Under the following links you will find the slides as
+well as the recordings of the last workshops:
+
+`MESSAGEix-Workshop material (June 2021) <http://pure.iiasa.ac.at/id/eprint/17318/>`_
 
 Learning objectives
 """""""""""""""""""
 
 The learning objectives of the workshop are the following:
 
-* Understanding of energy systems.
+* Gaining a good understanding of energy systems modelling.
 * Getting to know the main features of MESSAGEix.
 * Building an energy model and solving it.
 * Applying further policy constraints to the model.
-* Getting insights on version control, testing and documentation in software development
-* Understanding collaborative model development and continuous integration (GitHub).
+* Getting insights on version control, testing and documentation in
+  software development.
+* Understanding collaborative model development and continuous
+  integration (GitHub).
 
 Needed requirements
 """""""""""""""""""
 
 The workshop is designed to be accessible for users with different
-backgrounds and levels of experience with the modeling. However, there
+backgrounds and levels of experience with the modelling. However, there
 are some pre-requisite knowledge and skills which you should
 go through before getting started, including:
 
 * Elementary computer programming (preferably in the Python or R language);
-* Fundamental concepts of mathematical modeling, optimization,
+* Fundamental concepts of mathematical modelling, optimization,
   and data analysis; and
 * Energy systems (e.g., energy supply, energy conversion
   technologies, and demand sectors and their linkages).
@@ -70,15 +78,15 @@ https://github.com/iiasa/message_ix/discussions
 Agenda
 """"""
 
-**Section I: Introduction to MESSAGEix Modelling Framework**
+**Section I: Introduction to MESSAGEix modelling framework**
 
-* Introduction to the MESSAGEix modeling framework and its components.
+* Introduction to the MESSAGEix modelling framework and its components.
 * Troubleshooting of the installation.
 
 **Section II: Building a simple MESSAGEix model**
 
-* Brief intro to linear optimization.
-* Brief introduction to energy systems.
+* Brief introduction to linear optimization.
+* A review of energy systems modelling.
 * Building a simple model of a coffee machine from scratch using MESSAGEix
   (step-by-step hands on guide).
 * Discussing some main parameters/equations of the mathematical model.
@@ -98,7 +106,7 @@ Agenda
 * Brief intro to collaborative model development and continuous integration
   (GitHub).
 
-**Section V: Modelling Forum**
+**Section V: Modelling forum**
 
-In this free-format session, different modeling topics asked by the latest
+In this free-format session, different modelling topics asked by the latest
 workshop participants will be discussed.
