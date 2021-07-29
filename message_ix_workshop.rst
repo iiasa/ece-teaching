@@ -16,10 +16,9 @@ formulation and much more, please see the `documentation <https://docs.messageix
 Recent workshops
 """"""""""""""""
 
-Under the following links you will find the slides as
-well as the recordings of the last workshops:
-
-`MESSAGEix-Workshop material (June 2021) <http://pure.iiasa.ac.at/id/eprint/17318/>`_
+* 7-11 June 2021 (`download <http://pure.iiasa.ac.at/id/eprint/17318/>`_)
+* 7-10 September 2020
+* 8-12 June 2020
 
 Learning objectives
 """""""""""""""""""
