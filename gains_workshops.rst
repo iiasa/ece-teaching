@@ -1,5 +1,5 @@
 GAINS Workshops
-^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^
 
 The aim of the workshop is to help new users of the GAINS
 modelling framework getting started with their modelling work.
