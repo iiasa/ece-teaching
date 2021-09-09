@@ -34,8 +34,8 @@ Course material (March 2021)
 | `pdf (2.4MB) <https://data.ene.iiasa.ac.at/zakeri/Lectures/Global-energy-transitions/Lecture-1_Global-energy-resources-and-markets.pdf>`_
 
 
-**Lecture 2**: Contemporary topics in energy and climate change
-| `pdf (1.9MB) <https://data.ene.iiasa.ac.at/zakeri/Lectures/Global-energy-transitions/Lecture-2_Contemporary-topics.pdf>`_
+**Lecture 2**: Energy transitions: societal and individual perspectives
+| `pdf (1.9MB) <https://data.ene.iiasa.ac.at/zakeri/Lectures/Global-energy-transitions/Lecture-2_Energy-transitions-society.pdf>`_
 
 
 **Lecture 3**: Integration of renewable energy sources: energy storage systems
