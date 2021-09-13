@@ -40,8 +40,10 @@ learned directly - and of course to rewind as often as you like and need.
    :caption: Workshops and tutorials
 
    message_ix_workshop
+   gains_workshops
 
 - :doc:`message_ix_workshop`
+- :doc:`gains_workshops`
 
 University courses and lectures
 -------------------------------
