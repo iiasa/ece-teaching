@@ -45,8 +45,6 @@ learned directly - and of course to rewind as often as you like and need.
 - :doc:`message_ix_workshop`
 - :doc:`gains_workshops`
 
-
-
 University courses and lectures
 -------------------------------
 
