@@ -59,9 +59,12 @@ Take a look - no need to enroll!
 
    lectures/osesm-tuwien/index
    lectures/iam-ntnu/index
+   lectures/global-entrans-tuwien/index
 
 - :doc:`lectures/osesm-tuwien/index` by Daniel Huppmann (2019-ongoing)
 - :doc:`lectures/iam-ntnu/index` by Volker Krey (2019/2020-ongoing)
+- :doc:`lectures/global-entrans-tuwien/index` by Behnam Zakeri (2020/2021-ongoing)
+
 
 Other useful resources
 ----------------------
