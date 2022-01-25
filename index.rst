@@ -96,5 +96,7 @@ such as those given as part of summer schools or individual lectures.
    :caption: Talks & presentations
 
    tutorials/pyam
+   tutorials/eeg-coding-culture
 
 - :doc:`tutorials/pyam`
+- :doc:`tutorials/eeg-coding-culture`
