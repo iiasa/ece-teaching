@@ -4,8 +4,8 @@ Coding culture at EEG
 This talk was given by `Philip Hackstock <https://iiasa.ac.at/staff/philip-hackstock>`_
 on the 17th of January 2022 for the *Energy Economics Group* (EEG) group at the TU Vienna.
 
-Presentation slides (.pptx & .pdf, english): DOI: `10.5281/zenodo.5881657
-<https://doi.org/10.5281/zenodo.5881657>`_
+Presentation slides (.pptx & .pdf, english):
+- DOI: `10.5281/zenodo.5881657 <https://doi.org/10.5281/zenodo.5881657>`_
 
 Example repositories:
 
