@@ -21,8 +21,8 @@ presented an overview and live demo of the **pyam** package.
 
 .. _`Horizon 2020 project ENGAGE` : https://www.engage-climate.org/capacity-building-workshop-1-february-2022/
 
-Presentation at the Strommarkttreffen (July 14, 2021)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Presentation at the *Strommarkttreffen* (July 14, 2021)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 At an online meeting of the Strommarkttreffen_ on July 14, 2021,
 `Daniel Huppmann <https://www.iiasa.ac.at/staff/huppmann>`_ presented an overview
