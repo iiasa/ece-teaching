@@ -40,8 +40,10 @@ learned directly - and of course to rewind as often as you like and need.
    :caption: Workshops and tutorials
 
    message_ix_workshop
+   gains_workshops
 
 - :doc:`message_ix_workshop`
+- :doc:`gains_workshops`
 
 University courses and lectures
 -------------------------------
@@ -94,5 +96,7 @@ such as those given as part of summer schools or individual lectures.
    :caption: Talks & presentations
 
    tutorials/pyam
+   tutorials/eeg-coding-culture
 
 - :doc:`tutorials/pyam`
+- :doc:`tutorials/eeg-coding-culture`
