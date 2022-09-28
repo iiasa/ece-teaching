@@ -8,7 +8,7 @@ Global Energy Transitions and Climate Policy @ TU Wien
 This course is part of the Master's degree program in `Environmental Technology & International Affairs`_ 
 held at the Technical University Vienna (TU Wien).
 The course is designed and delivered by `Dr. Behnam Zakeri <https://www.iiasa.ac.at/staff/zakeri>`_,
-including a few lectures by guest speakers/lecturers.
+including several lectures by guest speakers/lecturers.
 
 .. _`Environmental Technology & International Affairs` : https://www.tuwien.at/en/ace/masters-programs/msc-environmental-technology-intl-affairs?L=1
 
