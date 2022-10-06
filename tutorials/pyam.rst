@@ -7,6 +7,21 @@ Tutorials related to the pyam package
 This page collects tutorials and presentations related to the open-source Python package
 **pyam** for scenario analysis & visualization.
 
+
+Short intro video about the pyam package
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. raw:: html
+
+	<iframe width="560" height="315"src="https://www.youtube.com/embed/7P6hXiVqalQ"
+		title="YouTube video player" frameborder="0" allow="accelerometer; autoplay;
+		clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+	</iframe>
+
+This video is part of the `IAMC Youtube channel`_.
+
+.. _`IAMC Youtube channel` : https://www.youtube.com/c/IAMCIntegratedAssessmentModelingConsortium
+
 ENGAGE Capacity Building Workshop (February 1, 2022)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
