@@ -9,6 +9,6 @@ Documentation paper
 
 Presentations:
 
-- NEST and MESSAGE-ix Nexus module. September 2022, LUMS IAMs workshop and 
+- NEST and MESSAGEix Nexus module. September 2022, LUMS IAMs workshop and 
   October 2022 Engage Stakeholder workshop (`download <https://github.com/adrivinca/teaching_material/raw/main/MESSAGEix-workshops/NEST_presentation_LUMS23_Sept_2022.pptx>`_)
 
