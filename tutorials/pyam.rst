@@ -26,7 +26,7 @@ This video is part of the `IAMC Youtube channel`_.
 European Climate and Energy Modelling Platform 2022 (October 6, 2022)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-This session from the `European Climate and Energy Modelling Platform 2022`_ covered how
+This “Skills Workshop” at the `European Climate and Energy Modelling Platform 2022`_ conference (ECEMP) covered how
 to use the pyam package for simple scenario analysis, data visualization and computation
 of derived indicators. In addition, it was shown how to load scenario data directly from
 an IIASA Scenario Explorer instance (e.g., the scenario ensemble supporting the IPCC AR6
