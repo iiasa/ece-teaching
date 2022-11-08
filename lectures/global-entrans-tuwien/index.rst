@@ -1,5 +1,5 @@
 Global Energy Transitions and Climate Policy @ TU Wien
-============================================
+======================================================
 
 .. figure:: ../../../../_static/tuwien_logo.png
    :width: 240px
