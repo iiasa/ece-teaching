@@ -1,5 +1,5 @@
-Tutorials related to the pyam package
-=====================================
+The pyam package
+================
 
 .. figure:: https://raw.githubusercontent.com/IAMconsortium/pyam/main/doc/logos/pyam-header.png
    :width: 640px
@@ -7,16 +7,18 @@ Tutorials related to the pyam package
 This page collects tutorials and presentations related to the open-source Python package
 **pyam** for scenario analysis & visualization.
 
+`Read the docs <https://pyam-iamc.readthedocs.io>`_ to learn more about the package.
 
-Short intro video about the pyam package
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Intro video about the pyam package
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. raw:: html
 
-	<iframe width="560" height="315"src="https://www.youtube.com/embed/7P6hXiVqalQ"
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/7P6hXiVqalQ"
 		title="YouTube video player" frameborder="0" allow="accelerometer; autoplay;
 		clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-	</iframe>
+	</iframe><br />
 
 This video is part of the `IAMC Youtube channel`_.
 
@@ -34,13 +36,15 @@ WG3 report) into a Python computing environment for processing and analysis.
 
 .. raw:: html
 
-	<iframe width="560" height="315"src="https://www.youtube.com/watch?v=74Eyn39IVpo"
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/74Eyn39IVpo"
 		title="YouTube video player" frameborder="0" allow="accelerometer; autoplay;
 		clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-	</iframe>
+	</iframe><br />
+
+**Related material:**
 
  - Presentation slides: https://zenodo.org/record/7150257 and
- - Code: https://github.com/phackstock/ECEMP-pyam-tutorial.
+ - Tutorial notebook: https://github.com/phackstock/ECEMP-pyam-tutorial
 
 .. _`European Climate and Energy Modelling Platform 2022` : https://ecemp2022.b2match.io/
 
