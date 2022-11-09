@@ -41,9 +41,11 @@ learned directly - and of course to rewind as often as you like and need.
 
    message_ix_workshop
    gains_workshops
+   pyam
 
 - :doc:`message_ix_workshop`
 - :doc:`gains_workshops`
+- :doc:`pyam`
 
 University courses and lectures
 -------------------------------
@@ -65,9 +67,25 @@ Take a look - no need to enroll!
 - :doc:`lectures/iam-ntnu/index` by Volker Krey (2019/2020-ongoing)
 - :doc:`lectures/global-entrans-tuwien/index` by Behnam Zakeri (2020/2021-ongoing)
 
+Talks, conference presentations, summer school material
+-------------------------------------------------------
 
-Other useful resources
-----------------------
+In this section you will find a collection of talks, conference presentations
+or similar formats related to teaching and/or learning by ECE staff,
+such as those given as part of summer schools or individual lectures.
+
+.. toctree::
+   :hidden:
+   :maxdepth: 1
+   :caption: Talks & presentations
+
+   tutorials/eeg-coding-culture
+
+- :doc:`tutorials/eeg-coding-culture`
+
+Useful resources
+----------------
+
 This section contains a collection of various teaching and learning
 materials in different formats.
 
@@ -83,20 +101,3 @@ materials in different formats.
   with helpful tips and tricks for your daily programming life, |br|
   based on presentations during the weekly MESSAGEix meetings
 - A `template repo <https://github.com/iiasa/python-stub>`_ for IIASA Python projects
-
-Talks, conference presentations, summer school material
--------------------------------------------------------
-In this section you will find a collection of talks, conference presentations
-or similar formats related to teaching and/or learning by ECE staff,
-such as those given as part of summer schools or individual lectures.
-
-.. toctree::
-   :hidden:
-   :maxdepth: 1
-   :caption: Talks & presentations
-
-   tutorials/pyam
-   tutorials/eeg-coding-culture
-
-- :doc:`tutorials/pyam`
-- :doc:`tutorials/eeg-coding-culture`
