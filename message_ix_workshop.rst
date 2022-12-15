@@ -1,3 +1,5 @@
+.. _messageix workshop:
+
 MESSAGEix Workshop
 ^^^^^^^^^^^^^^^^^^
 

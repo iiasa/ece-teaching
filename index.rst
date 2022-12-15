@@ -79,8 +79,10 @@ such as those given as part of summer schools or individual lectures.
    :maxdepth: 1
    :caption: Talks & presentations
 
+   tutorials/NEST
    tutorials/eeg-coding-culture
 
+- :doc:`tutorials/NEST`
 - :doc:`tutorials/eeg-coding-culture`
 
 Useful resources
