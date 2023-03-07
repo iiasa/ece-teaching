@@ -1,7 +1,7 @@
 The pyam package
 ================
 
-.. figure:: https://raw.githubusercontent.com/IAMconsortium/pyam/main/doc/logos/pyam-header.png
+.. figure:: https://raw.githubusercontent.com/IAMconsortium/pyam/main/docs/logos/pyam-header.png
    :width: 640px
 
 This page collects tutorials and presentations related to the open-source Python package
@@ -66,8 +66,7 @@ Presentation at the *Strommarkttreffen* (July 14, 2021)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 At an online meeting of the Strommarkttreffen_ on July 14, 2021,
-`Daniel Huppmann <https://www.iiasa.ac.at/staff/huppmann>`_ presented an overview
-and live demo of the **pyam** package.
+Daniel Huppmann presented an overview and live demo of the **pyam** package.
 
  - Presentation slides (german/english): https://pure.iiasa.ac.at/id/eprint/17319
  - Tutorial notebook (english): https://github.com/danielhuppmann/strommarkttreffen-pyam
