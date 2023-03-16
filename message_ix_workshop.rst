@@ -3,10 +3,10 @@
 MESSAGEix Workshop
 ^^^^^^^^^^^^^^^^^^
 
-The aim of the workshop is to help new users of the MESSAGEix
+The aim of the workshops is to help new users of the MESSAGEix
 modelling framework getting started with their modelling work.
 The main features of the “framework” are introduced, and the
-use cases of some features are shown. The user can learn how
+use cases of some features are shown. The users can learn how
 to build an energy model and how to represent some policy
 constraints in their energy scenarios.
 For information about the model, its structure, mathematical
@@ -19,7 +19,7 @@ Upcoming events
 """"""""""""""""
 
 * 5-7 and 12-13 June 2023 - MESSAGEix Workshop
-* 7-8 May 2022 - MESSAGEix Community Meeting (`more info and the agenda <https://iiasa.ac.at/events/may-2023/messageix-community-meeting-2023>`_)
+* 24-25 May 2023 - MESSAGEix Community Meeting (`more info and the agenda <https://iiasa.ac.at/events/may-2023/messageix-community-meeting-2023>`_)
 
 Past workshops and seminars
 """"""""""""""""
@@ -33,7 +33,7 @@ Past workshops and seminars
 Learning objectives
 """""""""""""""""""
 
-The learning objectives of the workshop are the following:
+The learning objectives of the workshops are the following:
 
 * Gaining a good understanding of energy systems modelling.
 * Getting to know the main features of MESSAGEix.
@@ -47,7 +47,7 @@ The learning objectives of the workshop are the following:
 Needed requirements
 """""""""""""""""""
 
-The workshop is designed to be accessible for users with different
+Each workshop is designed to be accessible for users with different
 backgrounds and levels of experience with the modelling. However, there
 are some pre-requisite knowledge and skills which you should
 go through before getting started, including:
@@ -62,7 +62,7 @@ For a complete list, plus links to learning resources, see
 `“Pre-requisite knowledge & skills" repo <https://docs.messageix.org/en/stable/prereqs.html>`_
 in the documentation.
 
-Installation MESSAGEix
+Installation of MESSAGEix
 """"""""""""""""""""""
 
 Installing MESSAGEix before you're getting started with the workshop is highly
