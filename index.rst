@@ -42,10 +42,12 @@ learned directly - and of course to rewind as often as you like and need.
    message_ix_workshop
    gains_workshops
    pyam
+   message_ix_community_meeting
 
 - :doc:`message_ix_workshop`
 - :doc:`gains_workshops`
 - :doc:`pyam`
+- :doc:`message_ix_community_meeting`
 
 University courses and lectures
 -------------------------------

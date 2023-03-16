@@ -19,13 +19,11 @@ Upcoming events
 """"""""""""""""
 
 * 5-7 and 12-13 June 2023 - MESSAGEix Workshop
-* 24-25 May 2023 - MESSAGEix Community Meeting (`more info and the agenda <https://iiasa.ac.at/events/may-2023/messageix-community-meeting-2023>`_)
 
 Past workshops and seminars
 """"""""""""""""
 
 * 7-13 June 2022
-* 7-8 May 2022 - 1st Annual MESSAGEix Community Meeting (`more info and the agenda <https://iiasa.ac.at/events/may-2022/messageix-community-meeting>`_)
 * 7-11 June 2021 (`download <http://pure.iiasa.ac.at/id/eprint/17318/>`_)
 * 7-10 September 2020
 * 8-12 June 2020
