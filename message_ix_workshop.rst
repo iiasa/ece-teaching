@@ -21,7 +21,7 @@ Upcoming events
 * 5-7 and 12-13 June 2023 - MESSAGEix Workshop
 
 Past workshops and seminars
-""""""""""""""""
+""""""""""""""""""""""""""""
 
 * 7-13 June 2022
 * 7-11 June 2021 (`download <http://pure.iiasa.ac.at/id/eprint/17318/>`_)
@@ -61,7 +61,7 @@ For a complete list, plus links to learning resources, see
 in the documentation.
 
 Installation of MESSAGEix
-""""""""""""""""""""""
+""""""""""""""""""""""""""
 
 Installing MESSAGEix before you're getting started with the workshop is highly
 recommended. Complete instructions are provided in the documentation on the
