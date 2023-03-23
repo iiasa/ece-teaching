@@ -39,15 +39,15 @@ learned directly - and of course to rewind as often as you like and need.
    :maxdepth: 1
    :caption: Workshops and tutorials
 
-   message_ix_workshop
+   message_ix_community_meeting
+   message_ix_workshops
    gains_workshops
    pyam
-   message_ix_community_meeting
 
-- :doc:`message_ix_workshop`
+- :doc:`message_ix_community_meeting`
+- :doc:`message_ix_workshops`
 - :doc:`gains_workshops`
 - :doc:`pyam`
-- :doc:`message_ix_community_meeting`
 
 University courses and lectures
 -------------------------------

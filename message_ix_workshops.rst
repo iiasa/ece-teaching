@@ -1,7 +1,7 @@
-.. _messageix workshop:
+.. _messageix workshops:
 
-MESSAGEix Workshop
-^^^^^^^^^^^^^^^^^^
+MESSAGEix Workshops
+^^^^^^^^^^^^^^^^^^^
 
 The aim of the workshops is to help new users of the MESSAGEix
 modelling framework getting started with their modelling work.
