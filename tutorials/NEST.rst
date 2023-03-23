@@ -10,7 +10,7 @@ The NExus Solutions Tool (NEST) is an open modeling platform that integrates mul
 `The NExus Solutions Tool (NEST) v1.0: an open platform for optimizing multi-scale energy–water–land system transformations <https://doi.org/10.5194/gmd-13-1095-2020>`_
 
 
-A newer version of NEST has been developed, and also referred to as the "MESSAGEix-Nexus" module. This uses the MESSAGEix framework ( see :ref:`MESSAGEix Workshop <messageix workshop>` ) developed at IIASA and allows the generation of country models with representation of the Energy-water-land system similar to the previously developed NEST model in Vinca et al., 2020.
+A newer version of NEST has been developed, and also referred to as the "MESSAGEix-Nexus" module. This uses the MESSAGEix framework ( see :ref:`MESSAGEix Workshops <messageix workshops>` ) developed at IIASA and allows the generation of country models with representation of the Energy-water-land system similar to the previously developed NEST model in Vinca et al., 2020.
 Most of the development is currently under submission and not yet public.
 
 The following presentation introduces the first version of NEST and the MESSAGEix-Nexus module:

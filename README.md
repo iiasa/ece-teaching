@@ -65,10 +65,10 @@ by ECE staff, tutorials, etc.
 	   :maxdepth: 1
 	   :caption: Workshops and tutorials
 
-	   message_ix_workshop
+	   message_ix_workshops
 	   your_file_path
 
-	- :doc:`message_ix_workshop`
+	- :doc:`message_ix_workshops`
 	- :doc:`your_file_path`
 
 	```

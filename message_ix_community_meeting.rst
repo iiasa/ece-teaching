@@ -1,4 +1,4 @@
-.. _messageix workshop:
+.. _messageix community meeting:
 
 MESSAGEix Community Meeting
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
