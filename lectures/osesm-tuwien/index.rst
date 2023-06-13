@@ -14,6 +14,8 @@ Link to the lecture page on `TISS`_.
 Scope
 ^^^^^
 
+|cc-by|
+
 This lecture introduces key concepts of open-source modelling to better understand
 the energy system and assessing the transition to renewable sources in the context
 of climate change mitigation and sustainable development.
@@ -24,10 +26,45 @@ by the Intergovernmental Panel on Climate Change (IPCC), and the students will
 learn how to develop scenarios of the energy transition using open-source tools
 and readily available data.
 
-Summer semester 2021 (370.062)
+Summer semester 2023 (370.062)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-|cc-by|
+**Lecture 1**:
+
+| Principles of open, collaborative scientific programming for energy modelling
+| `pdf (2.7MB) <https://data.ece.iiasa.ac.at/huppmann/open-energy-modelling-spring-2023/Lecture-1.pdf>`_
+  | `pptx (4.5MB) <https://data.ece.iiasa.ac.at/huppmann/open-energy-modelling-spring-2023/Lecture-1.pptx>`_
+
+**Lecture 2**:
+
+| A hands-on example of working with git
+| `pdf (0.9MB) <https://data.ece.iiasa.ac.at/huppmann/open-energy-modelling-spring-2023/Lecture-2.pdf>`_
+  | `pptx (1.6MB) <https://data.ece.iiasa.ac.at/huppmann/open-energy-modelling-spring-2023/Lecture-2.pptx>`_
+
+The repository created as part of the hands-on exercise is available at
+https://github.com/danielhuppmann/lecture-spring-2023.
+
+**Lecture 3**:
+
+| Integrated assessment of climate change and sustainable development
+| `pdf (6.4MB) <https://data.ece.iiasa.ac.at/huppmann/open-energy-modelling-spring-2023/Lecture-3.pdf>`_
+  | `pptx (10.7MB) <https://data.ece.iiasa.ac.at/huppmann/open-energy-modelling-spring-2023/Lecture-3.pptx>`_
+
+**Lecture 4**:
+
+| Developing your own energy system scenarios using the MESSAGEix framework
+| `pdf (4.7MB) <https://data.ece.iiasa.ac.at/huppmann/open-energy-modelling-spring-2023/Lecture-4.pdf>`_
+  | `pptx (6.2MB) <https://data.ece.iiasa.ac.at/huppmann/open-energy-modelling-spring-2023/Lecture-4.pptx>`_
+
+**Lecture 5**:
+
+| What's next?
+| `pdf (3.9MB) <https://data.ece.iiasa.ac.at/huppmann/open-energy-modelling-spring-2023/Lecture-5.pdf>`_
+  | `pptx (8.9MB) <https://data.ece.iiasa.ac.at/huppmann/open-energy-modelling-spring-2023/Lecture-5.pptx>`_
+
+
+Summer semester 2021 (370.062)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 **Lecture 1**:
 
