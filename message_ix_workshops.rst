@@ -18,11 +18,12 @@ formulation and much more, please see the `documentation <https://docs.messageix
 Upcoming events
 """"""""""""""""
 
-* 5-7 and 12-13 June 2023 - MESSAGEix Workshop
+* 5-6 and 10-12 June 2024 - MESSAGEix Workshop
 
 Past workshops and seminars
 """"""""""""""""""""""""""""
 
+* 5-7 and 12-13 June 2023 - MESSAGEix Workshop
 * 7-13 June 2022
 * 7-11 June 2021 (`download <http://pure.iiasa.ac.at/id/eprint/17318/>`_)
 * 7-10 September 2020
@@ -35,6 +36,7 @@ The learning objectives of the workshops are the following:
 
 * Gaining a good understanding of energy systems modelling.
 * Getting to know the main features of MESSAGEix.
+* Demand estimation, renewable potential and investment cost representation
 * Building an energy model and solving it.
 * Applying further policy constraints to the model.
 * Getting insights on version control, testing and documentation in
@@ -82,7 +84,7 @@ from the instructions:
 You can check our GitHub pages, where common issues and solutions are discussed:
 https://github.com/iiasa/message_ix/discussions
 
-Agenda
+General Agenda
 """"""
 
 **Section I: Introduction to MESSAGEix modelling framework**
