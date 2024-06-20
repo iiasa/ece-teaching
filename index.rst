@@ -68,6 +68,7 @@ Take a look - no need to enroll!
 - :doc:`lectures/osesm-tuwien/index` by Daniel Huppmann (2019-ongoing)
 - :doc:`lectures/iam-ntnu/index` by Volker Krey (2019/2020-ongoing)
 - :doc:`lectures/global-entrans-tuwien/index` by Behnam Zakeri (2020/2021-ongoing)
+- :doc:`lectures/iam-uvic/index` by Madeleine McPherson (2020/2021-ongoing)
 
 Talks, conference presentations, summer school material
 -------------------------------------------------------
