@@ -16,7 +16,7 @@ formulation and much more, please see the `documentation <https://docs.messageix
    :local:
 
 Upcoming events
-""""""""""""""""
+"""""""""""""""
 
 * 5-6 and 10-12 June 2024 - MESSAGEix Workshop
 
@@ -63,7 +63,7 @@ For a complete list, plus links to learning resources, see
 in the documentation.
 
 Installation of MESSAGEix
-""""""""""""""""""""""""""
+"""""""""""""""""""""""""
 
 Installing MESSAGEix before you're getting started with the workshop is highly
 recommended. Complete instructions are provided in the documentation on the
@@ -85,7 +85,7 @@ You can check our GitHub pages, where common issues and solutions are discussed:
 https://github.com/iiasa/message_ix/discussions
 
 General Agenda
-""""""
+""""""""""""""
 
 **Section I: Introduction to MESSAGEix modelling framework**
 

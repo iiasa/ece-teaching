@@ -23,15 +23,15 @@ formulation, installation, and much more, please see the `documentation <https:/
    :local:
 
 Upcoming events
-""""""""""""""""
+"""""""""""""""
 
-* 28-29 May 2024 - MESSAGEix Community Meeting (`more info and the agenda <https://iiasa.ac.at/events/may-2024/messageix-community-meeting-2024>`_)
+* 28-29 May 2024 - MESSAGEix Community Meeting (`more info and the agenda <https://iiasa.ac.at/events/may-2024/messageix-community-meeting-2024>`__)
 
 Past events
 """""""""""
 
-* 24-25 May 2023 - MESSAGEix Community Meeting (`more info and the agenda <https://iiasa.ac.at/events/may-2023/messageix-community-meeting-2023>`_)
-* 7-8 May 2022 - 1st Annual MESSAGEix Community Meeting (`more info and the agenda <https://iiasa.ac.at/events/may-2022/messageix-community-meeting>`_)
+* 24-25 May 2023 - MESSAGEix Community Meeting (`more info and the agenda <https://iiasa.ac.at/events/may-2023/messageix-community-meeting-2023>`__)
+* 7-8 May 2022 - 1st Annual MESSAGEix Community Meeting (`more info and the agenda <https://iiasa.ac.at/events/may-2022/messageix-community-meeting>`__)
 
 Objectives of the community meeting
 """""""""""""""""""""""""""""""""""
